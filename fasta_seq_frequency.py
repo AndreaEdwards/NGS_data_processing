@@ -1,5 +1,4 @@
 """
-Task:
 Given a FASTA file with DNA sequences, find 10 most frequent sequences 
 and return the sequence and their counts in the file.
 

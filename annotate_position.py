@@ -1,5 +1,4 @@
 """
-Task:
 Given a chromosome and coordinates, write a program for looking up its 
 annotation.  Keep in mind you'll be doing this annotation millions of times.
 	-	Input: 
